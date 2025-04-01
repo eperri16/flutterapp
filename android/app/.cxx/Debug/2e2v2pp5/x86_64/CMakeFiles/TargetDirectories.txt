@@ -1,0 +1,2 @@
+/Users/eloraperrin/Documents/foodapp_delivery_exercice_vsa_ep-3/android/app/.cxx/Debug/2e2v2pp5/x86_64/CMakeFiles/edit_cache.dir
+/Users/eloraperrin/Documents/foodapp_delivery_exercice_vsa_ep-3/android/app/.cxx/Debug/2e2v2pp5/x86_64/CMakeFiles/rebuild_cache.dir

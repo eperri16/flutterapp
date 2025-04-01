@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Applications/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/eloraperrin/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/eloraperrin/Documents/ETUDES-SUPP/MASTER_TECHNOLOGIE-INFORMATION/M1_2024-2025/S2/DVP-Mobile/foodapp_delivery_exercice_vsa_ep-3 copie/android/app/.cxx/Debug/5i304k2t/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/eloraperrin/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/eloraperrin/Documents/ETUDES-SUPP/MASTER_TECHNOLOGIE-INFORMATION/M1_2024-2025/S2/DVP-Mobile/foodapp_delivery_exercice_vsa_ep-3 copie/android/app/.cxx/Debug/5i304k2t/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
